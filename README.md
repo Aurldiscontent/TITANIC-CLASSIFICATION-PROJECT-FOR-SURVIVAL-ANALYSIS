@@ -1,2 +1,4 @@
-# Titanic_Classification
-Making a system which tells whether the person will be save from sinking. What factors were most likely lead to success-socio-economic status, age, gender and more.
+# Titanic Survival Prediction Using Machine Learning
+The Titanic Classification project aims to build a predictive system that determines whether a passenger would have survived the Titanic disaster based on key factors. By leveraging historical data, this model analyzes various attributes such as socio-economic status (passenger class), age, gender, and family connections to identify patterns that influenced survival rates. Using machine learning algorithms, the system is trained on real Titanic passenger data to make accurate predictions based on these variables.
+
+Through feature engineering, data preprocessing, and model selection, this project explores the significance of different factors in survival outcomes. Logistic Regression, Decision Trees, and Random Forest models are evaluated to determine the best-performing classifier. This case study not only enhances data analysis and predictive modeling skills but also provides insight into how different social and demographic factors impacted survival during one of history’s most infamous maritime disasters.
